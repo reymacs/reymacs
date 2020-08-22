@@ -86,14 +86,14 @@ This copyrighted material is provided by the copyright holder and other parties 
 
 In case you found a conflict in this license and/or in case the software is violating your rights you are expected to attempt resolution of this through the original project using a new "ticket" in the issue tracker located (as of 22/08/2020) at hyperlink https://github.com/reymacs/reymacs/issues/new (requires a github account) or through an email to the copyright holder.
 
-## 7. Termination
+## 8. Termination
 
 Original project reserves the explicit right to terminate your rights to this license in case you are in a juristical area that enforces copyright law (or it's equivalent) that gives us the option/right to enforce this license and you break any of the stated text in this license. The termination starts at one hour after which your rights are restored assuming that you fixed the conflict in question otherwise the original termination time will be doubled right after the previous expired.
 
-### 7.1. Your rights in case of termination
+### 8.1. Your rights in case of termination
 
 We want to make the license acceptable for everyone and thus we grant you these rights that are expected to make the license better in that area.
 
-#### 7.1.1. Exceptions
+#### 8.1.1. Exceptions
 
 You have the right to request exception which will be considered appropriately, for example cultural reasons are a valid reason for an exception that is then expected to be implemented in the license.
