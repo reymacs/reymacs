@@ -1,5 +1,7 @@
 .PHONY: all clean vendor build list
 
+NAME ?= reymacs
+
 # Command overrides
 EMACS ?= emacs
 GREP ?= grep
@@ -96,3 +98,8 @@ maxx-clean:
 #@ Test the distribution in emacs
 runtime-test: maxx-build
 	@ build/maxx.sh runtime-test
+
+# --eval is evaluated after init.el (?)
+#@ Tests the distribution in system emacs (experimental)
+experimental-runtime-test:
+	@ "$(EMACS)" -l "$$(pwd)/src/$(NAME)/init.el" --eval "(setq user-emacs-directory \"$$(pwd)/src/$(NAME)\")"
