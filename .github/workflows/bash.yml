@@ -6,7 +6,6 @@ on:
     types: [ready_for_review]
     paths:
     - '**.bash'
-    - "tools/dockerfreeze"
 
 jobs:
   # Linting
