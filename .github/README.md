@@ -1,3 +1,9 @@
+# DEPRECATED!
+
+Deprecated in a favor of https://github.com/RXT0128/custom-emacs
+
+---
+
 # REYMACS
 
 **FIXME-DOCS**: Add logo
